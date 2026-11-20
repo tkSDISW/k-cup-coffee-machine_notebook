@@ -1,0 +1,19 @@
+{
+  "package": "compat_findings",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
+      "type": "note",
+      "timestamp": "2026-11-20T16:45:23Z",
+      "last_updated": "2026-11-20T16:45:23Z",
+      "title": "## Purpose of this package",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/note-0001-9770e91e7a3b42928cf8a9555f9183bd.md"
+    }
+  ]
+}
