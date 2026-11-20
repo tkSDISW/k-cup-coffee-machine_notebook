@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -27,6 +27,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0001-38467a96359f4fe9810f362caedd8ac8.md"
+    },
+    {
+      "id": "dec-0002-581a22da403748d49d28d05e208ee76e",
+      "type": "decision",
+      "timestamp": "2026-11-20T14:37:01Z",
+      "last_updated": "2026-11-20T14:37:01Z",
+      "title": "## Decision: source set and working practices for the K-Cup model",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0002-581a22da403748d49d28d05e208ee76e.md"
     }
   ]
 }
