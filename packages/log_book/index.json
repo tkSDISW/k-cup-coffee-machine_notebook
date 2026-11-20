@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 13,
+  "entry_count": 14,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -170,6 +170,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0005-213c72a6a8a3446893992b2366aa45c7.md"
+    },
+    {
+      "id": "dec-0007-c4267cce8e7547938d86333c1cd8e77f",
+      "type": "decision",
+      "timestamp": "2026-11-20T16:43:44Z",
+      "last_updated": "2026-11-20T16:43:44Z",
+      "title": "## Decision: this project also tests `capella-fabric` against Capella 6.1, and findings go back to its maintainer",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0007-c4267cce8e7547938d86333c1cd8e77f.md"
     }
   ]
 }
