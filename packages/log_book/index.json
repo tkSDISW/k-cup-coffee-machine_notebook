@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 4,
+  "entry_count": 5,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -53,6 +53,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0002-989f174c314f44efb612035361aec235.md"
+    },
+    {
+      "id": "dec-0003-9e87a91304de46e4a6747fb9a967dce5",
+      "type": "decision",
+      "timestamp": "2026-11-20T14:50:09Z",
+      "last_updated": "2026-11-20T14:50:09Z",
+      "title": "## Decision: reference sources are the Ohio State B130 teardown and the iFixit K-Duo page",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0003-9e87a91304de46e4a6747fb9a967dce5.md"
     }
   ]
 }
