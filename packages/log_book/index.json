@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 9,
+  "entry_count": 10,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -118,6 +118,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0004-6d7960bfcdbb4eed97da62a394ae18a6.md"
+    },
+    {
+      "id": "note-0001-2d36a41f3a8b438e87a1d2195c0e9e66",
+      "type": "purpose",
+      "timestamp": "2026-11-20T15:07:23Z",
+      "last_updated": "2026-11-20T15:07:23Z",
+      "title": "## purpose: K Cup Coffee Maker Notebook",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/note-0001-2d36a41f3a8b438e87a1d2195c0e9e66.md"
     }
   ]
 }
