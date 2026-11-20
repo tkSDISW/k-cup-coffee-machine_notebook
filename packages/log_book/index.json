@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 7,
+  "entry_count": 8,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -92,6 +92,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0003-49e8dde95ee549aca0269dc244ae70ad.md"
+    },
+    {
+      "id": "dec-0005-de04f1414dbd4e2fb889cb3b204fb27b",
+      "type": "decision",
+      "timestamp": "2026-11-20T15:03:35Z",
+      "last_updated": "2026-11-20T15:03:35Z",
+      "title": "## Decision: Operational Analysis is the centerpiece, organized around convenience and lack of mess",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0005-de04f1414dbd4e2fb889cb3b204fb27b.md"
     }
   ]
 }
