@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -14,6 +14,19 @@
       ],
       "tags": [],
       "file_path": "entries/note-0001-9770e91e7a3b42928cf8a9555f9183bd.md"
+    },
+    {
+      "id": "obs-0001-3c5761de55804d1cb609ea83e4d66387",
+      "type": "observation",
+      "timestamp": "2026-11-20T16:45:34Z",
+      "last_updated": "2026-11-20T16:45:34Z",
+      "title": "## Compat finding 1: read operations work on an empty Capella 6.1 project (confirmation)",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0001-3c5761de55804d1cb609ea83e4d66387.md"
     }
   ]
 }
