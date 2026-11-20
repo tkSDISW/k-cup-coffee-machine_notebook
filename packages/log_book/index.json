@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 3,
+  "entry_count": 4,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -40,6 +40,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0002-581a22da403748d49d28d05e208ee76e.md"
+    },
+    {
+      "id": "obs-0002-989f174c314f44efb612035361aec235",
+      "type": "observation",
+      "timestamp": "2026-11-20T14:37:12Z",
+      "last_updated": "2026-11-20T14:37:12Z",
+      "title": "## Reference Specifications (preliminary) and a model-mismatch issue",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0002-989f174c314f44efb612035361aec235.md"
     }
   ]
 }
