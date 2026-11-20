@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -14,6 +14,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0001-5bc3345e91c9496dbeb50308c8f0a470.md"
+    },
+    {
+      "id": "obs-0001-38467a96359f4fe9810f362caedd8ac8",
+      "type": "observation",
+      "timestamp": "2026-11-20T14:31:11Z",
+      "last_updated": "2026-11-20T14:31:11Z",
+      "title": "## Candidate open-source sources for the K-Cup machine model (initial survey)",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0001-38467a96359f4fe9810f362caedd8ac8.md"
     }
   ]
 }
