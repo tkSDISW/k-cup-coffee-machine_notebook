@@ -1,0 +1,19 @@
+{
+  "package": "log_book",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
+      "type": "decision",
+      "timestamp": "2026-11-20T14:29:42Z",
+      "last_updated": "2026-11-20T14:29:42Z",
+      "title": "## Project kickoff: build a Capella system model with ARCADIA, logged in this notebook",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0001-5bc3345e91c9496dbeb50308c8f0a470.md"
+    }
+  ]
+}
