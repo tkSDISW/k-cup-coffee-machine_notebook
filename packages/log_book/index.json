@@ -175,7 +175,7 @@
       "id": "dec-0007-c4267cce8e7547938d86333c1cd8e77f",
       "type": "decision",
       "timestamp": "2026-11-20T16:43:44Z",
-      "last_updated": "2026-11-20T16:43:44Z",
+      "last_updated": "2026-11-20T16:45:37Z",
       "title": "## Decision: this project also tests `capella-fabric` against Capella 6.1, and findings go back to its maintainer",
       "author": "Claude Coffer Maker",
       "contributors": [
