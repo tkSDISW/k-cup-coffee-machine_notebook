@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 11,
+  "entry_count": 12,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -144,6 +144,19 @@
       ],
       "tags": [],
       "file_path": "entries/bcfg-0001-78dc874a765840e18b8f3d13a54345c5.md"
+    },
+    {
+      "id": "dec-0006-6f7ffb20fe23406190b129b70da32356",
+      "type": "decision",
+      "timestamp": "2026-11-20T16:35:14Z",
+      "last_updated": "2026-11-20T16:35:14Z",
+      "title": "## Decision: modeling environment is Capella 6.1, workspace InnovatingwithCapella",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0006-6f7ffb20fe23406190b129b70da32356.md"
     }
   ]
 }
