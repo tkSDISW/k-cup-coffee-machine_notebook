@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 5,
+  "entry_count": 6,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -66,6 +66,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0003-9e87a91304de46e4a6747fb9a967dce5.md"
+    },
+    {
+      "id": "dec-0004-8c5de870c3f043deb1436b48fdc88ba6",
+      "type": "decision",
+      "timestamp": "2026-11-20T14:55:09Z",
+      "last_updated": "2026-11-20T14:55:09Z",
+      "title": "## Decision: model scope is K-Duo pod-brewing mode only",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0004-8c5de870c3f043deb1436b48fdc88ba6.md"
     }
   ]
 }
