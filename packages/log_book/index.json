@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 12,
+  "entry_count": 13,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -157,6 +157,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0006-6f7ffb20fe23406190b129b70da32356.md"
+    },
+    {
+      "id": "obs-0005-213c72a6a8a3446893992b2366aa45c7",
+      "type": "observation",
+      "timestamp": "2026-11-20T16:40:16Z",
+      "last_updated": "2026-11-20T16:40:16Z",
+      "title": "## Model baseline: empty Capella 6.1 project pushed to the model repo",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0005-213c72a6a8a3446893992b2366aa45c7.md"
     }
   ]
 }
