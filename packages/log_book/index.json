@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 6,
+  "entry_count": 7,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -79,6 +79,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0004-8c5de870c3f043deb1436b48fdc88ba6.md"
+    },
+    {
+      "id": "obs-0003-49e8dde95ee549aca0269dc244ae70ad",
+      "type": "observation",
+      "timestamp": "2026-11-20T14:55:25Z",
+      "last_updated": "2026-11-20T14:55:25Z",
+      "title": "## Survey: existing coffee-machine system models, and whether any cover pod systems",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0003-49e8dde95ee549aca0269dc244ae70ad.md"
     }
   ]
 }
