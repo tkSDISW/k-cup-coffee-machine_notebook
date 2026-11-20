@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 8,
+  "entry_count": 9,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -105,6 +105,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0005-de04f1414dbd4e2fb889cb3b204fb27b.md"
+    },
+    {
+      "id": "obs-0004-6d7960bfcdbb4eed97da62a394ae18a6",
+      "type": "observation",
+      "timestamp": "2026-11-20T15:03:45Z",
+      "last_updated": "2026-11-20T15:03:45Z",
+      "title": "## Benchmark: what the Gaphor coffee machine tutorial covers (the bar to surpass)",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0004-6d7960bfcdbb4eed97da62a394ae18a6.md"
     }
   ]
 }
