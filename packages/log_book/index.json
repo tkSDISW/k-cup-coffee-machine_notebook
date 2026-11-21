@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 20,
+  "entry_count": 21,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -261,6 +261,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0009-95a878ea48c244a784bea8ffa9298e9a.md"
+    },
+    {
+      "id": "obs-0007-7310ae0972194182b052638ca831a239",
+      "type": "observation",
+      "timestamp": "2026-11-21T16:40:39Z",
+      "last_updated": "2026-11-21T16:40:39Z",
+      "title": "## Reference: \"Augmenting requirements with models\" (Bonnet, Voirin, Navas, INCOSE IS 2019)",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0007-7310ae0972194182b052638ca831a239.md"
     }
   ]
 }
