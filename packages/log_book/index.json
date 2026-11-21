@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 14,
+  "entry_count": 15,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -183,6 +183,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0007-c4267cce8e7547938d86333c1cd8e77f.md"
+    },
+    {
+      "id": "obs-0006-4e50600180ae4dd1ac7f1f5e1466938e",
+      "type": "observation",
+      "timestamp": "2026-11-21T13:13:28Z",
+      "last_updated": "2026-11-21T13:13:28Z",
+      "title": "## K-Duo Use and Care Guide read in full; variant to be pinned down",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0006-4e50600180ae4dd1ac7f1f5e1466938e.md"
     }
   ]
 }
