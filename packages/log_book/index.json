@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 15,
+  "entry_count": 16,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -196,6 +196,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0006-4e50600180ae4dd1ac7f1f5e1466938e.md"
+    },
+    {
+      "id": "note-0002-03014abc65914533833144002ab702a4",
+      "type": "note",
+      "timestamp": "2026-11-21T13:13:45Z",
+      "last_updated": "2026-11-21T13:13:45Z",
+      "title": "## DRAFT: candidate operational capabilities for the single-serve pod brewer (for tuning before adding to the model)",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/note-0002-03014abc65914533833144002ab702a4.md"
     }
   ]
 }
