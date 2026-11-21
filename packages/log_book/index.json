@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 17,
+  "entry_count": 18,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -222,6 +222,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0008-7863480f15db43fca1a7b2ff44fc8a20.md"
+    },
+    {
+      "id": "note-0003-405fb132539d49d1973c7625b2296e29",
+      "type": "note",
+      "timestamp": "2026-11-21T13:44:13Z",
+      "last_updated": "2026-11-21T13:44:13Z",
+      "title": "## DRAFT: base user requirements (what the user needs to see from use)",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/note-0003-405fb132539d49d1973c7625b2296e29.md"
     }
   ]
 }
