@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 16,
+  "entry_count": 17,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -209,6 +209,19 @@
       ],
       "tags": [],
       "file_path": "entries/note-0002-03014abc65914533833144002ab702a4.md"
+    },
+    {
+      "id": "dec-0008-7863480f15db43fca1a7b2ff44fc8a20",
+      "type": "decision",
+      "timestamp": "2026-11-21T13:24:15Z",
+      "last_updated": "2026-11-21T13:24:15Z",
+      "title": "## Decision: OA capabilities stay solution-agnostic; the pod and other design terms enter in later phases",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0008-7863480f15db43fca1a7b2ff44fc8a20.md"
     }
   ]
 }
