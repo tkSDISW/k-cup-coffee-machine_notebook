@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 19,
+  "entry_count": 20,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -248,6 +248,19 @@
       ],
       "tags": [],
       "file_path": "entries/note-0004-700e72eb18ed44fe9b87418717d1236a.md"
+    },
+    {
+      "id": "dec-0009-95a878ea48c244a784bea8ffa9298e9a",
+      "type": "decision",
+      "timestamp": "2026-11-21T13:54:42Z",
+      "last_updated": "2026-11-21T13:54:42Z",
+      "title": "## Decision: tuning choices for the base and goal requirements",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0009-95a878ea48c244a784bea8ffa9298e9a.md"
     }
   ]
 }
