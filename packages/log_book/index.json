@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 18,
+  "entry_count": 19,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -235,6 +235,19 @@
       ],
       "tags": [],
       "file_path": "entries/note-0003-405fb132539d49d1973c7625b2296e29.md"
+    },
+    {
+      "id": "note-0004-700e72eb18ed44fe9b87418717d1236a",
+      "type": "note",
+      "timestamp": "2026-11-21T13:44:31Z",
+      "last_updated": "2026-11-21T13:44:31Z",
+      "title": "## DRAFT: goal (reach) requirements: sustainability and waste by-products",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/note-0004-700e72eb18ed44fe9b87418717d1236a.md"
     }
   ]
 }
