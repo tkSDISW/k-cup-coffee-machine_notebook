@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 21,
+  "entry_count": 22,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -274,6 +274,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0007-7310ae0972194182b052638ca831a239.md"
+    },
+    {
+      "id": "dec-0010-50e05fea83f3472b8d24d638e981ec82",
+      "type": "decision",
+      "timestamp": "2026-11-21T16:40:51Z",
+      "last_updated": "2026-11-21T16:40:51Z",
+      "title": "## Decision: review the requirements against the Bonnet, Voirin and Navas (2019) paper",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0010-50e05fea83f3472b8d24d638e981ec82.md"
     }
   ]
 }
