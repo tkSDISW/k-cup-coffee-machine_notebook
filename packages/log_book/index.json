@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 28,
+  "entry_count": 29,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -365,6 +365,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0015-71c675a0366c40868e466fa43ede6d79.md"
+    },
+    {
+      "id": "note-0005-36ac0a2879584ec0982afa2dabcbe46a",
+      "type": "note",
+      "timestamp": "2026-11-23T17:27:45Z",
+      "last_updated": "2026-11-23T17:27:45Z",
+      "title": "## Working table: satisfy links from capabilities to requirements, to draw in Capella",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/note-0005-36ac0a2879584ec0982afa2dabcbe46a.md"
     }
   ]
 }
