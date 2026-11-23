@@ -136,7 +136,7 @@
       "id": "obs-0010-321c247154e54e80ba427fb2f88eb543",
       "type": "observation",
       "timestamp": "2026-11-23T17:23:51Z",
-      "last_updated": "2026-11-23T17:23:51Z",
+      "last_updated": "2026-11-23T17:24:47Z",
       "title": "## Compat finding 10: requesting `CapellaIncomingRelation` by patch does not change the result (hypothesis from finding",
       "author": "Claude Coffer Maker",
       "contributors": [
