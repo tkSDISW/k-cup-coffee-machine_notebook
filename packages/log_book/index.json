@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 22,
+  "entry_count": 23,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -287,6 +287,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0010-50e05fea83f3472b8d24d638e981ec82.md"
+    },
+    {
+      "id": "dec-0011-aa0cbd7cda55419cb75e47b3921a71e2",
+      "type": "decision",
+      "timestamp": "2026-11-23T16:26:52Z",
+      "last_updated": "2026-11-23T16:26:52Z",
+      "title": "## Decision: requirements live in two Capella requirement modules under Operational Analysis",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0011-aa0cbd7cda55419cb75e47b3921a71e2.md"
     }
   ]
 }
