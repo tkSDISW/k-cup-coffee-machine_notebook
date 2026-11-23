@@ -2,7 +2,7 @@
 id: obs-0007-3cafdf4cb5df4b128ba7ccd1b6a18ff0
 type: observation
 timestamp: 2026-11-23T17:00:11Z
-last_updated: 2026-11-23T17:00:11Z
+last_updated: 2026-11-23T17:00:52Z
 author: Claude Coffer Maker
 contributors: ["Claude Coffer Maker"]
 tags: []
@@ -42,3 +42,7 @@ tags: []
 11. **Tool version or build:** not known (open item in DEC-0007).
 
 **Not yet covered:** creating the same link in Capella and comparing it with the patched one; relation types; linking requirement to requirement; linking to entities or to elements outside OA; removing a relation.
+
+---
+
+**Update: pushed.** With the engineer's confirmation, `push_model_changes` returned status `ok` ("Pushed to refs/heads/master") for both local commits, `43e07267` (two involvement links) and `85b33268` (requirement relation test). This is the fourth successful push on the 6.1 model. **Still pending:** the engineer's check in Capella 6.1 (item 10): whether UR-B-04's relation points at "Prepare a serving of hot coffee on demand", its direction, and whether the capability lists the requirement.
