@@ -84,7 +84,7 @@
       "id": "obs-0006-a099365012e14caa9cb8248c7bfab213",
       "type": "observation",
       "timestamp": "2026-11-23T16:52:51Z",
-      "last_updated": "2026-11-23T16:52:51Z",
+      "last_updated": "2026-11-23T16:53:36Z",
       "title": "## Compat finding 6: renaming entities, creating entities, and linking entities to capabilities by patch (local commits)",
       "author": "Claude Coffer Maker",
       "contributors": [
