@@ -149,7 +149,7 @@
       "id": "obs-0011-6b569680ea0f4a7baf2b547fafa38625",
       "type": "observation",
       "timestamp": "2026-11-23T17:54:02Z",
-      "last_updated": "2026-11-23T17:54:02Z",
+      "last_updated": "2026-11-23T17:54:53Z",
       "title": "## Compat finding 11: setting the `prefix` of requirements by patch (confirmation, local commits), and how the",
       "author": "Claude Coffer Maker",
       "contributors": [
