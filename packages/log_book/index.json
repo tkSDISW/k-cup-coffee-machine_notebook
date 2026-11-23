@@ -357,7 +357,7 @@
       "id": "dec-0015-71c675a0366c40868e466fa43ede6d79",
       "type": "decision",
       "timestamp": "2026-11-23T17:15:33Z",
-      "last_updated": "2026-11-23T17:15:33Z",
+      "last_updated": "2026-11-23T17:17:32Z",
       "title": "## Decision: traceability convention is model element to requirement, with a \"satisfy\" meaning",
       "author": "Claude Coffer Maker",
       "contributors": [
