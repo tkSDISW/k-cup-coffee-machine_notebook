@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 8,
+  "entry_count": 9,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -105,6 +105,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0007-3cafdf4cb5df4b128ba7ccd1b6a18ff0.md"
+    },
+    {
+      "id": "obs-0008-a9ce4b1de9fe42c2ba8284ef1d31819c",
+      "type": "observation",
+      "timestamp": "2026-11-23T17:15:42Z",
+      "last_updated": "2026-11-23T17:15:42Z",
+      "title": "## Compat finding 8: creating a requirement link from the model-element side is refused (nothing committed)",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0008-a9ce4b1de9fe42c2ba8284ef1d31819c.md"
     }
   ]
 }
