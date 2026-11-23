@@ -292,7 +292,7 @@
       "id": "dec-0011-aa0cbd7cda55419cb75e47b3921a71e2",
       "type": "decision",
       "timestamp": "2026-11-23T16:26:52Z",
-      "last_updated": "2026-11-23T16:30:23Z",
+      "last_updated": "2026-11-23T16:31:15Z",
       "title": "## Decision: requirements live in two Capella requirement modules under Operational Analysis",
       "author": "Claude Coffer Maker",
       "contributors": [
