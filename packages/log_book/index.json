@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 26,
+  "entry_count": 27,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -339,6 +339,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0013-9ff946559b6e43f3b5177aef744597e3.md"
+    },
+    {
+      "id": "dec-0014-6a9b62ec1f894019b232a374a56c325b",
+      "type": "decision",
+      "timestamp": "2026-11-23T16:57:48Z",
+      "last_updated": "2026-11-23T16:57:48Z",
+      "title": "## Decision: keep Coffee Drinker as the only actor in Operational Analysis",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0014-6a9b62ec1f894019b232a374a56c325b.md"
     }
   ]
 }
