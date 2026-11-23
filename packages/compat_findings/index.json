@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 10,
+  "entry_count": 11,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -131,6 +131,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0009-6d74cd638bf0405ca7dd8bffcdfbba6e.md"
+    },
+    {
+      "id": "obs-0010-321c247154e54e80ba427fb2f88eb543",
+      "type": "observation",
+      "timestamp": "2026-11-23T17:23:51Z",
+      "last_updated": "2026-11-23T17:23:51Z",
+      "title": "## Compat finding 10: requesting `CapellaIncomingRelation` by patch does not change the result (hypothesis from finding",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0010-321c247154e54e80ba427fb2f88eb543.md"
     }
   ]
 }
