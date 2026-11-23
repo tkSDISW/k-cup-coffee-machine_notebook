@@ -162,7 +162,7 @@
       "id": "obs-0012-ff5c3e68641344c49bb5bcde828b283f",
       "type": "observation",
       "timestamp": "2026-11-23T18:44:40Z",
-      "last_updated": "2026-11-23T18:44:40Z",
+      "last_updated": "2026-11-23T18:50:20Z",
       "title": "## Compat finding 12: reading back 17 satisfy links drawn in Capella 6.1 (confirmation)",
       "author": "Claude Coffer Maker",
       "contributors": [
