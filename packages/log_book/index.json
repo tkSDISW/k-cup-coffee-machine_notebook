@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 27,
+  "entry_count": 28,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -352,6 +352,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0014-6a9b62ec1f894019b232a374a56c325b.md"
+    },
+    {
+      "id": "dec-0015-71c675a0366c40868e466fa43ede6d79",
+      "type": "decision",
+      "timestamp": "2026-11-23T17:15:33Z",
+      "last_updated": "2026-11-23T17:15:33Z",
+      "title": "## Decision: traceability convention is model element to requirement, with a \"satisfy\" meaning",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0015-71c675a0366c40868e466fa43ede6d79.md"
     }
   ]
 }
