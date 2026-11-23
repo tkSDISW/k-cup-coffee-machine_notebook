@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 24,
+  "entry_count": 25,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -313,6 +313,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0012-dbf1ca8c4bd34c9da7e193eb7147f476.md"
+    },
+    {
+      "id": "obs-0008-c95634c9f5444db88e6f3d3e4707ec64",
+      "type": "observation",
+      "timestamp": "2026-11-23T16:50:05Z",
+      "last_updated": "2026-11-23T16:50:05Z",
+      "title": "## Review: first operational entities and the OCB diagram",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0008-c95634c9f5444db88e6f3d3e4707ec64.md"
     }
   ]
 }
