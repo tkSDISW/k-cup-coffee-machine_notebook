@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 4,
+  "entry_count": 5,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -53,6 +53,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0003-04b1d50112bf4d769a1e24db57f81d26.md"
+    },
+    {
+      "id": "obs-0004-bd8c9578659c44b59c56bf2576641eae",
+      "type": "observation",
+      "timestamp": "2026-11-23T16:35:59Z",
+      "last_updated": "2026-11-23T16:35:59Z",
+      "title": "## Compat finding 4: batch creation of requirements and operational capabilities by patch, `set:` on an existing",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0004-bd8c9578659c44b59c56bf2576641eae.md"
     }
   ]
 }
