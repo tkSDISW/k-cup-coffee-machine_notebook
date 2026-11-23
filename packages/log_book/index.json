@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 29,
+  "entry_count": 30,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -378,6 +378,19 @@
       ],
       "tags": [],
       "file_path": "entries/note-0005-36ac0a2879584ec0982afa2dabcbe46a.md"
+    },
+    {
+      "id": "note-0006-1f2bbc0f97b640b28549c310758d668a",
+      "type": "note",
+      "timestamp": "2026-11-23T18:56:26Z",
+      "last_updated": "2026-11-23T18:56:26Z",
+      "title": "## Project state and parked decisions (2026-11-23)",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/note-0006-1f2bbc0f97b640b28549c310758d668a.md"
     }
   ]
 }
