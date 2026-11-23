@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 25,
+  "entry_count": 26,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -326,6 +326,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0008-c95634c9f5444db88e6f3d3e4707ec64.md"
+    },
+    {
+      "id": "dec-0013-9ff946559b6e43f3b5177aef744597e3",
+      "type": "decision",
+      "timestamp": "2026-11-23T16:52:40Z",
+      "last_updated": "2026-11-23T16:52:40Z",
+      "title": "## Decision: neutral entity names, descriptions, and two added entities in Operational Analysis",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0013-9ff946559b6e43f3b5177aef744597e3.md"
     }
   ]
 }
