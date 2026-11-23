@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 5,
+  "entry_count": 6,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -66,6 +66,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0004-bd8c9578659c44b59c56bf2576641eae.md"
+    },
+    {
+      "id": "obs-0005-55d66cd49da345f4936377453c0667ee",
+      "type": "observation",
+      "timestamp": "2026-11-23T16:50:14Z",
+      "last_updated": "2026-11-23T16:50:14Z",
+      "title": "## Compat finding 5: `pull_model_changes` picks up a Capella 6.1 commit, and reading entities, capability involvement",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0005-55d66cd49da345f4936377453c0667ee.md"
     }
   ]
 }
