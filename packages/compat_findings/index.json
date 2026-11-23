@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 3,
+  "entry_count": 4,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -40,6 +40,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0002-dc96640232b643bfa28d77a8cd50639a.md"
+    },
+    {
+      "id": "obs-0003-04b1d50112bf4d769a1e24db57f81d26",
+      "type": "observation",
+      "timestamp": "2026-11-23T16:30:18Z",
+      "last_updated": "2026-11-23T16:30:18Z",
+      "title": "## Compat finding 3: creating a requirement inside a requirement module by patch (first write test, local commit)",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0003-04b1d50112bf4d769a1e24db57f81d26.md"
     }
   ]
 }
