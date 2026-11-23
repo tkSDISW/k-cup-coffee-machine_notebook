@@ -45,7 +45,7 @@
       "id": "obs-0003-04b1d50112bf4d769a1e24db57f81d26",
       "type": "observation",
       "timestamp": "2026-11-23T16:30:18Z",
-      "last_updated": "2026-11-23T16:30:18Z",
+      "last_updated": "2026-11-23T16:31:12Z",
       "title": "## Compat finding 3: creating a requirement inside a requirement module by patch (first write test, local commit)",
       "author": "Claude Coffer Maker",
       "contributors": [
