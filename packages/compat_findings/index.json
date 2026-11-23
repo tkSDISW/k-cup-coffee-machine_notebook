@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -27,6 +27,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0001-3c5761de55804d1cb609ea83e4d66387.md"
+    },
+    {
+      "id": "obs-0002-dc96640232b643bfa28d77a8cd50639a",
+      "type": "observation",
+      "timestamp": "2026-11-23T16:27:04Z",
+      "last_updated": "2026-11-23T16:27:04Z",
+      "title": "## Compat finding 2: fresh clone picks up the engineer's Capella 6.1 changes, including requirement modules",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0002-dc96640232b643bfa28d77a8cd50639a.md"
     }
   ]
 }
