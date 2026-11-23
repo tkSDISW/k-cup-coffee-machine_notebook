@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 11,
+  "entry_count": 12,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -144,6 +144,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0010-321c247154e54e80ba427fb2f88eb543.md"
+    },
+    {
+      "id": "obs-0011-6b569680ea0f4a7baf2b547fafa38625",
+      "type": "observation",
+      "timestamp": "2026-11-23T17:54:02Z",
+      "last_updated": "2026-11-23T17:54:02Z",
+      "title": "## Compat finding 11: setting the `prefix` of requirements by patch (confirmation, local commits), and how the",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0011-6b569680ea0f4a7baf2b547fafa38625.md"
     }
   ]
 }
