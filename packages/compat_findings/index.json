@@ -97,7 +97,7 @@
       "id": "obs-0007-3cafdf4cb5df4b128ba7ccd1b6a18ff0",
       "type": "observation",
       "timestamp": "2026-11-23T17:00:11Z",
-      "last_updated": "2026-11-23T17:00:52Z",
+      "last_updated": "2026-11-23T17:17:28Z",
       "title": "## Compat finding 7: linking a requirement to a capability by patch (first try failed with a clear error, second try",
       "author": "Claude Coffer Maker",
       "contributors": [

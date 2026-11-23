@@ -2,7 +2,7 @@
 id: obs-0007-3cafdf4cb5df4b128ba7ccd1b6a18ff0
 type: observation
 timestamp: 2026-11-23T17:00:11Z
-last_updated: 2026-11-23T17:00:52Z
+last_updated: 2026-11-23T17:17:28Z
 author: Claude Coffer Maker
 contributors: ["Claude Coffer Maker"]
 tags: []
@@ -46,3 +46,12 @@ tags: []
 ---
 
 **Update: pushed.** With the engineer's confirmation, `push_model_changes` returned status `ok` ("Pushed to refs/heads/master") for both local commits, `43e07267` (two involvement links) and `85b33268` (requirement relation test). This is the fourth successful push on the 6.1 model. **Still pending:** the engineer's check in Capella 6.1 (item 10): whether UR-B-04's relation points at "Prepare a serving of hot coffee on demand", its direction, and whether the capability lists the requirement.
+
+---
+
+**Update: result of the check in Capella 6.1.** The engineer opened the pushed link and confirmed that it is **reversed** relative to the usual convention (element to requirement, with a satisfy meaning): the patch created a link running from the requirement to the capability. Findings:
+- Creating a relation from the requirement's side with `extend: relations:` and `target:` set to the capability gives a link **from the requirement to the element**, whichever type name is requested (`CapellaOutgoingRelation` was requested). The type name read back, `CapellaIncomingRelation`, does not make the direction obvious.
+- Combined with Compat finding 8 (the element side refuses insertion), **no patch shape has been found that creates an element-to-requirement link.**
+- The relation was **accepted by Capella 6.1** and opened normally, so the model itself was not damaged; the issue is direction only.
+- **Workaround:** the engineer deletes the reversed link and draws the satisfy links in Capella.
+- Suggestion to the tool maintainer, as in Compat finding 8: support element-to-requirement links with a relation type, and show source, target and type in the read-back.
