@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 9,
+  "entry_count": 10,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -118,6 +118,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0008-a9ce4b1de9fe42c2ba8284ef1d31819c.md"
+    },
+    {
+      "id": "obs-0009-6d74cd638bf0405ca7dd8bffcdfbba6e",
+      "type": "observation",
+      "timestamp": "2026-11-23T17:22:06Z",
+      "last_updated": "2026-11-23T17:22:06Z",
+      "title": "## Compat finding 9: the satisfy link as drawn in Capella 6.1, compared with the patched link",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0009-6d74cd638bf0405ca7dd8bffcdfbba6e.md"
     }
   ]
 }
