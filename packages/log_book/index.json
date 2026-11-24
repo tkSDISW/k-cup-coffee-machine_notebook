@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 30,
+  "entry_count": 31,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -391,6 +391,19 @@
       ],
       "tags": [],
       "file_path": "entries/note-0006-1f2bbc0f97b640b28549c310758d668a.md"
+    },
+    {
+      "id": "note-0007-2408719efc394b68b464be1b893558d4",
+      "type": "note",
+      "timestamp": "2026-11-24T11:38:47Z",
+      "last_updated": "2026-11-24T11:38:47Z",
+      "title": "## DRAFT: operational activities, exchange items and interactions for the operational processes (for alignment before",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/note-0007-2408719efc394b68b464be1b893558d4.md"
     }
   ]
 }
