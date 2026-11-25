@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 14,
+  "entry_count": 15,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -183,6 +183,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0013-9a570d61d20c46ffb55050f887e1caf0.md"
+    },
+    {
+      "id": "obs-0014-95a71cfe915549aba16fa8fc1ec5d42f",
+      "type": "observation",
+      "timestamp": "2026-11-25T12:31:14Z",
+      "last_updated": "2026-11-25T12:31:14Z",
+      "title": "## Compat finding 14: operational activities, allocation to entities, exchange items and OA interactions by patch",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0014-95a71cfe915549aba16fa8fc1ec5d42f.md"
     }
   ]
 }
