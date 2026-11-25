@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 13,
+  "entry_count": 14,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -170,6 +170,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0012-ff5c3e68641344c49bb5bcde828b283f.md"
+    },
+    {
+      "id": "obs-0013-9a570d61d20c46ffb55050f887e1caf0",
+      "type": "observation",
+      "timestamp": "2026-11-25T12:31:02Z",
+      "last_updated": "2026-11-25T12:31:02Z",
+      "title": "## Compat finding 13: an idle model session expires, and the error does not say so; resuming works (confirmation with a",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0013-9a570d61d20c46ffb55050f887e1caf0.md"
     }
   ]
 }
