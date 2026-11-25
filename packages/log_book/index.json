@@ -1,6 +1,6 @@
 {
   "package": "log_book",
-  "entry_count": 31,
+  "entry_count": 32,
   "entries": [
     {
       "id": "dec-0001-5bc3345e91c9496dbeb50308c8f0a470",
@@ -404,6 +404,19 @@
       ],
       "tags": [],
       "file_path": "entries/note-0007-2408719efc394b68b464be1b893558d4.md"
+    },
+    {
+      "id": "dec-0016-d3702a23a6974549bc1a8b7593f86a04",
+      "type": "decision",
+      "timestamp": "2026-11-25T12:31:34Z",
+      "last_updated": "2026-11-25T12:31:34Z",
+      "title": "## Decision: operational activities, exchange items and interactions are in the model; the engineer builds the processes",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0016-d3702a23a6974549bc1a8b7593f86a04.md"
     }
   ]
 }
