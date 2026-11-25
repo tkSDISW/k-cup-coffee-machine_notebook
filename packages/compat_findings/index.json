@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 16,
+  "entry_count": 17,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -209,6 +209,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0015-9e83955eeb6a4099adb987f106e646bb.md"
+    },
+    {
+      "id": "obs-0016-6e34be21098e492987ea466ca197f848",
+      "type": "observation",
+      "timestamp": "2026-11-25T12:36:21Z",
+      "last_updated": "2026-11-25T12:36:21Z",
+      "title": "## Compat finding 16: a generated context diagram for an operational entity shows only the entity when its links exist",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0016-6e34be21098e492987ea466ca197f848.md"
     }
   ]
 }
