@@ -1,6 +1,6 @@
 {
   "package": "compat_findings",
-  "entry_count": 15,
+  "entry_count": 16,
   "entries": [
     {
       "id": "note-0001-9770e91e7a3b42928cf8a9555f9183bd",
@@ -196,6 +196,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0014-95a71cfe915549aba16fa8fc1ec5d42f.md"
+    },
+    {
+      "id": "obs-0015-9e83955eeb6a4099adb987f106e646bb",
+      "type": "observation",
+      "timestamp": "2026-11-25T12:31:23Z",
+      "last_updated": "2026-11-25T12:31:23Z",
+      "title": "## Compat finding 15: `exchange_items:` inside the `exchange:` creation form is accepted but silently ignored",
+      "author": "Claude Coffer Maker",
+      "contributors": [
+        "Claude Coffer Maker"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0015-9e83955eeb6a4099adb987f106e646bb.md"
     }
   ]
 }
